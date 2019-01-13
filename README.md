@@ -7,5 +7,6 @@ Unless you have a reason for utilizing the full version of Anaconda, I recommend
 
 ### What is Jupyter Notebook?  
 Jupyter notbeook is an interactive development platform for programming.  It is in some ways similar to other text editors but has a much more logical flow.  Code is organized into distinct ‘cells’ or chunks of code that can be independently run in the order of the user’s preference, and output is displayed just below each cell.  This allows the user to step through the code in a manner that is intuitive and view the results as they go along.  It also makes debugging during development easy. 
-* Note that in order to run Jupyter Notebook one must first install it in your Conda Enviroment
+
+Note that in order to run Jupyter Notebook one must first install it in your Conda Enviroment
 
