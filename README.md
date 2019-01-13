@@ -1,1 +1,11 @@
-# GettingStarted
+#Using Jupyter Notebook and Conda Environments for iPython Code Execution
+### What is a Conda Environment?  
+For my purposes, Conda environments provide a convenient way to utilize different versions of python and python packages for different applications.  To give an example, perhaps a given application (Application1) was written using Python version 2.5 and MyPackage version 1.1.  Alternatively, a different application (Application2) was written with Python version 3.5 and MyPackage version 3.1.  Additionally, Application1 and Application2 won’t run using the alternative versions of Python and MyPackage.  This could quickly become a major pain, uninstalling and reinstalling the correct python/package versions so you can run a given application.  What Conda allows one to do is create different ‘environments’ on your computer, each with different versions of Python and any other packages, which you can then flexibly activate.  That is, I could have an environment for Application1 and an environment for Application2, and all I have to do is activate the Conda environment for Application 1 to use it, and all this requires is a single command!
+
+### Installing Conda and Creating a Conda Environment: 
+Unless you have a reason for utilizing the full version of Anaconda, we recommend installing Miniconda which requires substantially less disk space (https://conda.io/miniconda.html).  Creating and activating a conda environment is easy to do using very few terminal commands.  See here for details: (https://conda.io/docs/user-guide/tasks/manage-environments.html).  
+
+### What is Jupyter Notebook?  
+Jupyter notbeook is an interactive development platform for programming.  It is in some ways similar to other text editors but has a much more logical flow.  Code is organized into distinct ‘cells’ or chunks of code that can be independently run in the order of the user’s preference, and output is displayed just below each cell.  This allows the user to step through the code in a manner that is intuitive and view the results as they go along.  It also makes debugging during development easy.   Additionally, the separation of Markdown/Headings and Code make code much easier to read, as can be seen in the example below:
+*Note that in order to run Jupyter Notebook one must first install it in your Conda Enviroment
+
