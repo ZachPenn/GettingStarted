@@ -3,7 +3,7 @@
 ## Steps to get started
 1. Download and install Miniconda/Conda (https://conda.io/miniconda.html).
 2. Create the necessary Conda environment.  Specific install instructions are contained within each repository.  
-3. Clone/download files in repository onto you computer.
+3. Clone/download files in repository onto your computer.
 4. Activate the Conda environment from the command line terminal on your computer (command: source activate EnvironmentName)
 4. Launch Jupyter Notebook from the command line terminal on your computer (command: jupyter notebook).  We have included jupyter notebook installation in the conda environment installation.
 5. From Jupyter Notebook, navigate to the iPython files and open them.  You can now run the code!  If you're new to Jupyter Notebook, you might check out some online tutorials.  There are tons.  Here's one very simple one: https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb
