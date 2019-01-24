@@ -1,7 +1,7 @@
 # Using Jupyter Notebook and Conda Environments for iPython Code Execution
 
 ## Steps to get started
-1. Download and install Miniconda/Conda (https://conda.io/miniconda.html).
+1. [Download and install Miniconda/Conda](https://conda.io/miniconda.html).
 2. Create the necessary Conda environment.  Specific install instructions are contained within each repository.  
 3. Clone/download files in repository onto your computer.
 4. Activate the Conda environment from the command line terminal on your computer (command: source activate EnvironmentName)
