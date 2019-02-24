@@ -3,9 +3,9 @@ All of the code repositories on this GitHub account contain interactive Python (
 
 ## Steps to get started
 1. [Download and install Miniconda/Conda](https://conda.io/miniconda.html).  Download version with Python 3.7.
-2. Create the necessary Conda environment.  **Specific install instructions for creating the environment for a given repository are contained within each repository's README section, because different repositories require different packages to be installed in the conda environment**.  
+2. Create the necessary Conda environment.  **Specific install instructions for creating the environment for a given repository are contained within each repository's README section.**
 3. Download all files in the specified repository onto your computer.  On the main page of the repository, click the button to clone or download, and download the zip folder onto your harddrive (don't forget to unzip the folder).  Alternatively, use git commands if you are familiar with them.
-4. Activate the Conda environment from the command line terminal on your computer (command: `source activate EnvironmentName`).  On a mac, use your finder to open Terminal.  On a windows os, search for 'cmd' and then select and open Command Prompt.
+4. Activate the Conda environment from the command line terminal on your computer (command: `source activate EnvironmentName`).  On a mac, use your finder to open Terminal.  On a windows os, search for 'Anaconda Prompt'.
 5. Launch Jupyter Notebook from the command line terminal on your computer (command: `jupyter notebook`).  We have included jupyter notebook installation in the conda environment installation.
 6. **From within Jupyter Notebook**, navigate to the iPython files and open them.  You can now run the code!  If you're new to Jupyter Notebook, you might check out some online tutorials.  There are tons.  [Here's one very simple one.](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 
